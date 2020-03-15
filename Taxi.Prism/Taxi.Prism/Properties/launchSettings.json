@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Taxi.Prism": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0",
+      "environmentVariables": {
+        "/rootsuffix Exp": "Value"
+      }
+    }
+  }
+}

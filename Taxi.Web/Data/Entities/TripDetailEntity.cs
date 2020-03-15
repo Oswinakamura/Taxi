@@ -20,6 +20,7 @@ namespace Taxi.Web.Data.Entities
         public double Longitude { get; set; }
 
         public TripEntity Trip { get; set; }
+        public UserEntity User { get; set; }
 
     }
 }
